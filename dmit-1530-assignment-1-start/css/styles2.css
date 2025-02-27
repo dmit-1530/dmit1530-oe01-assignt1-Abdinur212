@@ -145,6 +145,13 @@ header a {
     gap: 1.5rem;
 }
 
+.inner-flex2 ul{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    gap: 0;
+}
+
 span {
     font-weight: bold;
 }

@@ -304,6 +304,10 @@ footer p {
         max-width: 50%;
     }
 
+    .flex-container2 .inner-flex:nth-of-type(2) {
+        order: -1;
+    }
+
     .flex-container2 img {
         max-width: 50%;
         height: auto;
